@@ -1,0 +1,15 @@
+{
+  "name": "triangular-arbitrage",
+  "version": "1.0.0",
+  "description": "triangular arbitrage on cexs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arsenii Koniachenko",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^1.92.75",
+    "dotenv": "^16.0.1"
+  }
+}
